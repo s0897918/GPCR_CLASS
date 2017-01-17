@@ -1,1 +1,0 @@
-# GPCR_CLASS 
